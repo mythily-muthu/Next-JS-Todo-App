@@ -2,15 +2,15 @@
   "tasks": [
     {
       "id": "1",
-      "tasks": "learn code"
+      "text": "learn"
     },
     {
       "id": "2",
-      "tasks": "learn code"
+      "text": "office"
     },
     {
       "id": "3",
-      "tasks": "learn code"
+      "text": "kj"
     }
   ]
 }
